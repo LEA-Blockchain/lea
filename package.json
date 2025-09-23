@@ -1,6 +1,6 @@
 {
   "name": "@getlea/lea",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Command-line tool for the Lea blockchain",
   "type": "module",
   "bin": {
@@ -21,7 +21,7 @@
   "license": "MIT",
   "dependencies": {
     "@getlea/keygen": "^1.0.0",
-    "@getlea/web3": "^1.0.0"
+    "@getlea/web3": "^1.0.4"
   },
   "devDependencies": {
     "del-cli": "^6.0.0",
